@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.547d1b94.chunk.css",
+    "main.js": "/static/js/main.3f870320.chunk.js",
+    "main.js.map": "/static/js/main.3f870320.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5fa960d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5fa960d1.js.map",
+    "static/js/2.5ab75abe.chunk.js": "/static/js/2.5ab75abe.chunk.js",
+    "static/js/2.5ab75abe.chunk.js.map": "/static/js/2.5ab75abe.chunk.js.map",
+    "static/js/3.f63c9dd8.chunk.js": "/static/js/3.f63c9dd8.chunk.js",
+    "static/js/3.f63c9dd8.chunk.js.map": "/static/js/3.f63c9dd8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.547d1b94.chunk.css.map": "/static/css/main.547d1b94.chunk.css.map",
+    "static/js/2.5ab75abe.chunk.js.LICENSE.txt": "/static/js/2.5ab75abe.chunk.js.LICENSE.txt",
+    "static/media/Artur-Alvarez.0cb4c3fb.jpeg": "/static/media/Artur-Alvarez.0cb4c3fb.jpeg",
+    "static/media/Joan-Herrera.398bcb34.jpeg": "/static/media/Joan-Herrera.398bcb34.jpeg",
+    "static/media/Marco-Emilio-Rodriguez-Serrano.2cb997f7.jpeg": "/static/media/Marco-Emilio-Rodriguez-Serrano.2cb997f7.jpeg",
+    "static/media/Salome-Valero.24783dba.jpeg": "/static/media/Salome-Valero.24783dba.jpeg",
+    "static/media/pyrrha-arch.7d82fb20.jpg": "/static/media/pyrrha-arch.7d82fb20.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fa960d1.js",
+    "static/js/2.5ab75abe.chunk.js",
+    "static/css/main.547d1b94.chunk.css",
+    "static/js/main.3f870320.chunk.js"
+  ]
+}
